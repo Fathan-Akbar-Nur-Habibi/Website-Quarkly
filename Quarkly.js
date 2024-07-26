@@ -7,11 +7,15 @@ nav.appendChild(dropdown);
 const dropdownList = document.createElement('ul');
 dropdown.appendChild(dropdownList);
 
-const dropdownItem = document.createElement('li');
-dropdownItem.textContent = 'Dropdown Item';
-dropdownList.appendChild(dropdownItem);
+const dropdownItem1 = document.createElement('li');
+dropdownItem1.textContent = 'Dropdown Item 1';
+dropdownList.appendChild(dropdownItem1);
+
+const dropdownItem2 = document.createElement('li');
+dropdownItem2.textContent = 'Dropdown Item 2';
+dropdownList.appendChild(dropdownItem2);
 
 // Menampilkan dropdown saat diklik
 nav.addEventListener('click', () => {
-    dropdown.classList.toggle('show');
+  dropdown.classList.toggle('show');
 });
