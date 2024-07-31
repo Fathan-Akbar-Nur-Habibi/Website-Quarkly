@@ -2,7 +2,7 @@
 
 This website is developed by myself and is in the development stage. In this website will discuss about **Science and Technology**, which includes: 
 
-**1. Quantum Physics (Theory)
+1. Quantum Physics (Theory)
 
 2. Quantum Computing
     
@@ -12,4 +12,4 @@ This website is developed by myself and is in the development stage. In this web
    
 5. Algorithm computing for applied quantum computing
 
-6. Quantum Material Design Computing **
+6. Quantum Material Design Computing 
